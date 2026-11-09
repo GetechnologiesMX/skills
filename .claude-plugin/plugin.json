@@ -1,0 +1,23 @@
+{
+  "name": "getechnologies-skills",
+  "version": "1.0.0",
+  "description": "GETechnologies agent skills: from Argos specifications to a deployable Next.js prototype.",
+  "author": {
+    "name": "GETechnologies",
+    "url": "https://github.com/GetechnologiesMX"
+  },
+  "homepage": "https://github.com/GetechnologiesMX/skills",
+  "repository": "https://github.com/GetechnologiesMX/skills",
+  "license": "MIT",
+  "keywords": [
+    "argos",
+    "prototype",
+    "nextjs",
+    "railway",
+    "impeccable",
+    "frontend"
+  ],
+  "skills": [
+    "./skills/prototyping/argos-prototype"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "getechnologies",
+  "owner": {
+    "name": "GETechnologies",
+    "url": "https://github.com/GetechnologiesMX"
+  },
+  "description": "Official GETechnologies skills marketplace.",
+  "plugins": [
+    {
+      "name": "getechnologies-skills",
+      "source": "./",
+      "description": "Argos Prototype by GETechnologies: turns Argos specification exports into a frontend-only Next.js prototype ready for Railway.",
+      "category": "prototyping",
+      "keywords": [
+        "argos",
+        "prototype",
+        "nextjs",
+        "railway"
+      ]
+    }
+  ]
+}
