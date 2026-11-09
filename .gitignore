@@ -1,6 +1,7 @@
 node_modules/
 .claude/
 .impeccable/
+.idea/
 .DS_Store
 Thumbs.db
 *.log
